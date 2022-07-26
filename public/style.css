@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+body{
+    font-family: 'Open Sans', sans-serif;
+    background-image: url(./assets/rm222-mind-16.jpg);
+    background-position: center; /* Center the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+    background-repeat: no-repeat; /*   Do not repeat the image */
+}
+.center-div{
+    padding-top: 10%;
+}
+
+.btn.btn-primary{
+    margin-top:0.8em;
+}
+
+.form-group{
+    margin: 1em;
+}
+.form{
+    padding: 0 2em;
+}
+
+.title{
+    font-size: 0.8em;
+}
+
+.form.i{
+    margin-left: -30px;
+    cursor: pointer;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+  }
